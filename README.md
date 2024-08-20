@@ -18,3 +18,5 @@
     Ingresa desde un navegador a http://127.0.0.1:5600/
 
 ![Vista previa página web.](https://github.com/damisuki/CRUD_PYTHON_DashBoard/blob/fa62c8d2ac50b040c6e06ed79adf7bc7f0cde449/my-app/static/assets/img/crud_python_d%20(1).png)
+
+(https://github.com/damisuki/CRUD_PYTHON_DashBoard/blob/fa62c8d2ac50b040c6e06ed79adf7bc7f0cde449/my-app/static/assets/img/crud_python_d%20(2).png)

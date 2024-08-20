@@ -19,4 +19,4 @@
 
 ![Vista previa página web.](https://github.com/damisuki/CRUD_PYTHON_DashBoard/blob/fa62c8d2ac50b040c6e06ed79adf7bc7f0cde449/my-app/static/assets/img/crud_python_d%20(1).png)
 
-(https://github.com/damisuki/CRUD_PYTHON_DashBoard/blob/fa62c8d2ac50b040c6e06ed79adf7bc7f0cde449/my-app/static/assets/img/crud_python_d%20(2).png)
+![Vista previa página web.](https://github.com/damisuki/CRUD_PYTHON_DashBoard/blob/3490366f41f2bcdadac71aab4a91cfb256382fda/my-app/static/assets/img/crud_python_d%20(2).png)
